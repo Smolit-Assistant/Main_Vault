@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength"
+  ],
+  "cssTheme": "Border"
+}

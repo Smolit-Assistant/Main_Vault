@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"69bd6751023bc4cb","type":"group","x":-1440,"y":-2560,"width":5680,"height":2400,"color":"3","label":"Canvas"},
+		{"id":"a73ea33b10f0e1c2","type":"group","x":-1320,"y":-1800,"width":5320,"height":1020,"color":"6","label":"Framework"},
+		{"id":"62c5ec5448c46054","type":"group","x":-1320,"y":-2360,"width":2380,"height":486,"color":"#0000ff","label":"Privat"},
+		{"id":"b37e9fee12a643a8","x":-1320,"y":-660,"width":1260,"height":440,"color":"1","type":"group","label":"Business Ideen"},
+		{"id":"5550dba2c9d5b097","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Framework.canvas","x":-1040,"y":-1760,"width":400,"height":400},
+		{"id":"31690668b0570c1c","type":"file","file":"Vaults/Vault_MainBrain/Vaults/DEV/DEV.canvas","x":-1040,"y":-1200,"width":400,"height":400},
+		{"id":"0a5491fc41c57cef","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Fabi MeditationsCentrum/MeditationsCentrum.canvas","x":-1040,"y":-640,"width":400,"height":400},
+		{"id":"8c7686a380c22f63","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit-Ideas/Smolit Ideas.canvas","x":-480,"y":-1760,"width":400,"height":400},
+		{"id":"95a5ecd5fd195b2e","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Software/Software.md","x":80,"y":-1760,"width":400,"height":400},
+		{"id":"8b485826d89f989a","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit Assistant/Smolit Assistant.md","x":640,"y":-1760,"width":400,"height":400},
+		{"id":"d9e707e4025a6dcd","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/OpenCraft OS/OpenCraft OS.md","x":1200,"y":-1760,"width":400,"height":400},
+		{"id":"468ca2211aa8ad41","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Android Cluster/Android Cluster.md","x":1760,"y":-1760,"width":400,"height":400},
+		{"id":"6ffb99c363498491","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Daily Stuff Canvas/Links - Ideen - News.canvas","x":-480,"y":-2294,"width":400,"height":400},
+		{"id":"d096d8ad706a732f","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Privat/Privat.canvas","x":-1040,"y":-2294,"width":400,"height":400},
+		{"id":"d389dec2e3bd8579","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/AI-Garage/AI-Garage.md","x":2320,"y":-1760,"width":400,"height":400},
+		{"id":"b7e88bc9da96fbfd","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Hardware/Hardware Usecase.md","x":2880,"y":-1760,"width":400,"height":400},
+		{"id":"d41bd2eb3453c8e1","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Weiterbildung/Weiterbildung.canvas","x":80,"y":-2294,"width":400,"height":400},
+		{"id":"22211480b36802e5","type":"file","file":"Vaults/Vault_MainBrain/Vaults/KFZ/KFZ.canvas","x":640,"y":-2294,"width":400,"height":400},
+		{"id":"acf981d61b882993","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Trading/Trading.canvas","x":3440,"y":-1760,"width":400,"height":400},
+		{"id":"172733121d39f830","x":-480,"y":-640,"width":400,"height":400,"type":"file","file":"Vaults/Vault_MainBrain/Vaults/Fabi MeditationsCentrum/Business Ideen.md"}
+	],
+	"edges":[
+		{"id":"b45d9e7b9b4b9f22","fromNode":"d41bd2eb3453c8e1","fromSide":"bottom","toNode":"5550dba2c9d5b097","toSide":"top"}
+	]
+}

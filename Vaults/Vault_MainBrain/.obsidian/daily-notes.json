@@ -1,0 +1,6 @@
+{
+  "autorun": true,
+  "template": "Settings/Templates/D- Daily",
+  "folder": "Calendar/Daily",
+  "format": "DD-MM-YY"
+}

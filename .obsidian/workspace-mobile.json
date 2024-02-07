@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "030baf06ca349c34",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0fd0266c15893ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25d8f23bb3de1976",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6809bbdf88e34f26",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "44267d8b09667028",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "259b00904e9bbf75",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b3a2ea8691d2b0ec",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "f192075fa39f0e93",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8e989d4539e27136",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2da8622dc90074bf",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c4a8d37f672f5c86",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b4251265d02cdcb7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "5357252a10d8774f",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {}
+        }
+      },
+      {
+        "id": "5fd95cad312566d3",
+        "type": "leaf",
+        "state": {
+          "type": "chatbot-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bmo-chatbot:Chatbot (Clear Conversation)": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "terminal:Open terminal": false,
+      "vscode-editor:Create Code File": false,
+      "dbfolder:Create a new database table": false,
+      "3d-graph:3D Graph": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "25d8f23bb3de1976",
+  "lastOpenFiles": [
+    "Vaults/Vault_MainBrain/Vaults/Privat/Git.md",
+    "Vaults/Vault_MainBrain/Vaults/Framework/Idea.md",
+    "Vaults/Vault_MainBrain/Vaults/Framework/Android Cluster/PluginGenerator/Idea.md",
+    "Vaults/Vault_MainBrain/Vaults/Framework/Android Cluster/PluginGenerator/src/finalizationModule.js",
+    "Vaults/Vault_MainBrain/Vaults/Framework/Android Cluster/PluginGenerator/src/errorHandlingModule.js",
+    "Vaults/Vault_MainBrain/Vaults/Framework/Android Cluster/PluginGenerator/src/userSettingsModule.js",
+    "Vaults/Vault_MainBrain/Vaults/Framework/Android Cluster/PluginGenerator/src/advancedFeatures.js",
+    "Vaults/Vault_MainBrain/Vaults/Framework/Android Cluster/PluginGenerator/src/pluginGeneratorModule.js",
+    "Vaults/Vault_MainBrain/Vaults/Framework/Android Cluster/PluginGenerator/src/communicationModule.js",
+    "Vaults/Vault_MainBrain/Vaults/Framework/Android Cluster/PluginGenerator/src/pluginGenerator.js",
+    "Vaults/Vault_MainBrain/Vaults/Framework/Android Cluster/PluginGenerator/src/Untitled.md",
+    "Vaults/Vault_MainBrain/Vaults/Framework/Android Cluster/PluginGenerator/src",
+    "Vaults/Vault_MainBrain/Vaults/Framework/Android Cluster/Obsidian-Bots/ChatGPT Chat.md",
+    "Vaults/Vault_MainBrain/Vaults/Framework/Android Cluster/PluginGenerator",
+    "Vaults/Vault_MainBrain/Vaults/Framework/Android Cluster/Obsidian-Bots/Khoj & BMO.md",
+    "Vaults/Vault_MainBrain/Vaults/DEV/Obsidian  Docs.md",
+    "Vaults/Vault_MainBrain/Vaults/DEV/github sync cron on termux.md",
+    "Vaults/Vault_MainBrain/Vaults/Framework/Community-Network/Anzeigen.md",
+    "Vaults/Vault_MainBrain/Vaults/Privat/Cloud DigitalOcean.md",
+    "Vaults/Vault_MainBrain/Vaults/Framework/Android Cluster/Android Cluster.md",
+    "Vaults/Vault_MainBrain/Vaults/Framework/Android Cluster/Obsidian-Bots",
+    "Vaults/Vault_MainBrain/Vaults/Framework/Android Cluster/Docker on Android.md",
+    "Vaults/Vault_MainBrain/Vaults/Privat/API.md",
+    "Vaults/Vault_MainBrain/Vaults/Framework/Android Cluster/ClusterCommander/NDS-CC.md",
+    "Vaults/Vault_MainBrain/Vaults/Vault_inWork_smolit/Obsidian-Smolit/Framework/SolitGPT.md",
+    "Vaults/Vault_MainBrain/Vaults/Vault_inWork_smolit/Obsidian-Smolit/Framework/000 Framework.md",
+    "Vaults/Vault_MainBrain/Vaults/Vault_inWork_smolit/Obsidian-Smolit/Workflow/LDW/LDW.md",
+    "Vaults/Vault_MainBrain/Vaults/Vault_inWork_smolit/Obsidian-Smolit/Workflow/SDW/SDW.md",
+    "Vaults/Vault_MainBrain/Vaults/Vault_inWork_smolit/Obsidian-Smolit/Framework/ClusterSSH.md",
+    "Vaults/Vault_MainBrain/Vaults/Vault_inWork_smolit/Obsidian-Smolit/Framework/Email-Bot.md",
+    "Vaults/Vault_MainBrain/Vaults/Vault_inWork_smolit/Smolit/CLI/smolit-auto-gpt-cli/README.md",
+    "Vaults/Vault_MainBrain/Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Smolit-Hub.md",
+    "Vaults/Vault_MainBrain/Vaults/Framework/Android Cluster/Next Dev Steps.md",
+    "Vaults/Vault_MainBrain/Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Email-Server.md",
+    "Vaults/Vault_MainBrain/Vaults/Framework/Android Cluster/SAC/NDS-SAC.md",
+    "Vaults/Vault_MainBrain/Vaults/Framework/Android Cluster/ClusterCommander/GUI Design Prompt.md",
+    "All_in_one.canvas",
+    "Vaults/Vault_MainBrain/Vaults/Framework/Smolit Assistant/Smolit-Frontend-Solutions/Smolit-UI.canvas",
+    "Vaults/Vault_MainBrain/Vaults/Vault_3D Print/~Desktop 3D Print.canvas",
+    "Vaults/Vault_MainBrain/Vaults/Fabi MeditationsCentrum/MeditationsCentrum.canvas",
+    "Vaults/Vault_MainBrain/Vaults/DEV/DEV.canvas",
+    "Vaults/Vault_MainBrain/Vaults/Framework/Framework.canvas",
+    "Vaults/Vault_MainBrain/Vaults/Weiterbildung/Weiterbildung.canvas",
+    "Vaults/Vault_MainBrain/Vaults/KFZ/KFZ.canvas",
+    "Vaults/Vault_MainBrain/Vaults/Privat/Privat.canvas",
+    "Vaults/Vault_MainBrain/Vaults/Trading/Trading.canvas"
+  ]
+}

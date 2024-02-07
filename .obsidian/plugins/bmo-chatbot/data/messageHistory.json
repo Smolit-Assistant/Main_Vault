@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "Kannst du dateien inhalb meines vaults verschieben, kopieren, neue erstellen, alte löschen oder renamen?"
+    },
+    {
+        "role": "assistant",
+        "content": "Als KI-Assistent habe ich keinen Zugriff auf Ihr physisches Dateisystem oder Ihre Geräte, einschließlich eines \"Vaults\". Ich kann keine Dateien verschieben, kopieren, erstellen, löschen oder umbenennen. Ich kann Ihnen jedoch Anweisungen geben, wie Sie diese Aktionen selbst durchführen können, wenn Sie Hilfe benötigen."
+    }
+]

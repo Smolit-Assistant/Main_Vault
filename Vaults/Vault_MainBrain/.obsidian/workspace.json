@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "41ad11bfba6c3a16",
+    "type": "split",
+    "children": [
+      {
+        "id": "e97ec30b4d36ed00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "375f8428dcf8769a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Vaults/Vault_inWork_smolit/Obsidian-Smolit/Smolit/~Desktop Smolit.canvas",
+                "viewState": {
+                  "x": -1205,
+                  "y": -2450,
+                  "zoom": -3.595503660502742
+                }
+              }
+            }
+          },
+          {
+            "id": "09c38725b0e759bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vaults/Vault_inWork_smolit/Obsidian-Smolit/Smolit/Link to API-KEYS.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e1514b3b4a82ddd",
+    "type": "split",
+    "children": [
+      {
+        "id": "19c76a686548ec46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96d5a7cbc3840a14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "628f56caf7a812ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "line:(api-key)",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb0d368648469597",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5
+  },
+  "right": {
+    "id": "0b4d9e4f3007a5dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "76d6ee1f9560d016",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7046dc8aed4c52b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vaults/Vault_inWork_smolit/Obsidian-Smolit/Smolit/Link to API-KEYS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3cd8838fbc3f2156",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vaults/Vault_inWork_smolit/Obsidian-Smolit/Smolit/Link to API-KEYS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "078427a70e4f2fc9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cd6a4b010b5a1aca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vaults/Vault_inWork_smolit/Obsidian-Smolit/Smolit/Link to API-KEYS.md"
+              }
+            }
+          },
+          {
+            "id": "030d136a4cc44860",
+            "type": "leaf",
+            "state": {
+              "type": "Timetable",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "90e39c6b31591978",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84cea2a01871bf97",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a45dbd17e21e081",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-custom-frames:Open MS-Teams": false,
+      "daily-notes:Open today's daily note": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "templater-obsidian:Templater": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "terminal:Open terminal": false,
+      "open-vscode:VSCode": false,
+      "graph:Open graph view": false,
+      "password-protection:Lock password protection": false,
+      "homepage:Open homepage": false,
+      "map-of-content:Update Map of Content": false
+    }
+  },
+  "active": "09c38725b0e759bd",
+  "lastOpenFiles": [
+    "Vaults/Vault_inWork_smolit/AutoGPT_colab.ipynb",
+    "Vaults/Vault_inWork_smolit/Smolit/CLI/smolit-shell-gpt-cli/README.md",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/Smolit/Link to API-KEYS.md",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Agent_OpenStack.md",
+    "~Desktop Daily.canvas",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Agent_OpenStack - Anmerkung.md",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Admin-Agents/Agent_OpenStack - Anmerkung.md",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Crawler-Agents/Agent_OpenStack - Anmerkung.md",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Crawler-Agents/Untitled.md",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Untitled.md",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Swift Add-Ons/Storlets.md",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Swift Add-Ons/Untitled.md",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Swift Add-Ons",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Untitled",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Agent_Storage.md",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/OpenStack-Agents/Web Frontend & API Proxis.md",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/OpenStack-Agents/Untitled.md",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/OpenStack-Agents",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Untitled",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack-Services.canvas",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/Untitled.canvas",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Web Frontend/Horizone.md",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Web Frontend",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Storage/Swift.md",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Storage/Manila.md",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Storage/Cinder.md",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Storage",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Shared Services/Placement.md",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Shared Services/Keystone.md",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Shared Services/Glance.md",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Shared Services/Barbican.md",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Shared Services",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Scale/Workload Provisioning/Trove.md",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Scale/Workload Provisioning/Sahara.md",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Scale/Workload Provisioning/Magnum.md",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Scale/Orchestration/Zaqar.md",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Scale/Workload Provisioning",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Scale/Orchestration",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Scale/Application Lifecycle",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/Pictures/Open-Stack.png",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/Pictures/openstack-map.png",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/Open-Stack.png",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/openstack-map.png",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/openstack-map.png",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/Smolit Open-Stack.canvas",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/Framework/Open-Stack/Smolit Open-Stack.canvas",
+    "Vaults/Vault_inWork_smolit/Obsidian-Smolit/Framework/Smolit Open-Stack.canvas",
+    "Vaults/Vault_inWork_smolit/Smolit Open-Stack.canvas",
+    "Vaults/Vault_inWork_smolit/Untitled.canvas",
+    "Vaults/Vault_inWork_smolit/~Desktop Weiterbildung.canvas",
+    "~Desktop Weiterbildung.canvas",
+    "Vaults/Vault_Weiterbildung/Link to Weiterbildung/Scrum/infographics/to be discussed/scrum-infographics-poster-A2.png",
+    "Vaults/Vault_Weiterbildung/Link to Weiterbildung/Scrum/infographics/Scrum Flow/ScrumFramework_17x11.png",
+    "Vaults/Vault_Weiterbildung/Link to Weiterbildung/Scrum/infographics/Scrum Flow/Scrum Guide Poster en 2.0 remarks.png",
+    "Vaults/Vault_Weiterbildung/Link to Weiterbildung/Scrum/infographics/Scrum Flow/Scrum Guide 2020 Poster.png",
+    "Vaults/Vault_Weiterbildung/Link to Weiterbildung/Scrum/infographics/Scrum Flow/Scrum Framework 2020_klein.png"
+  ]
+}

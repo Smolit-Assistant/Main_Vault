@@ -1,0 +1,306 @@
+{
+  "couchDB_URI": "",
+  "couchDB_USER": "",
+  "couchDB_PASSWORD": "",
+  "couchDB_DBNAME": "",
+  "liveSync": true,
+  "syncOnSave": false,
+  "syncOnStart": false,
+  "savingDelay": 200,
+  "lessInformationInLog": false,
+  "gcDelay": 0,
+  "versionUpFlash": "",
+  "minimumChunkSize": 20,
+  "longLineThreshold": 250,
+  "showVerboseLog": false,
+  "suspendFileWatching": false,
+  "trashInsteadDelete": true,
+  "periodicReplication": false,
+  "periodicReplicationInterval": 60,
+  "syncOnFileOpen": false,
+  "encrypt": false,
+  "passphrase": "",
+  "usePathObfuscation": false,
+  "doNotDeleteFolder": false,
+  "resolveConflictsByNewerFile": false,
+  "batchSave": false,
+  "deviceAndVaultName": "",
+  "usePluginSettings": false,
+  "showOwnPlugins": false,
+  "showStatusOnEditor": false,
+  "showOnlyIconsOnEditor": false,
+  "usePluginSync": true,
+  "autoSweepPlugins": true,
+  "autoSweepPluginsPeriodic": false,
+  "notifyPluginOrSettingUpdated": true,
+  "checkIntegrityOnSave": false,
+  "batch_size": 50,
+  "batches_limit": 40,
+  "useHistory": true,
+  "disableRequestURI": true,
+  "skipOlderFilesOnSync": true,
+  "checkConflictOnlyOnOpen": false,
+  "showMergeDialogOnlyOnActive": false,
+  "syncInternalFiles": true,
+  "syncInternalFilesBeforeReplication": false,
+  "syncInternalFilesIgnorePatterns": "\\/node_modules\\/, \\/\\.git\\/, \\/obsidian-livesync\\/",
+  "syncInternalFilesInterval": 60,
+  "additionalSuffixOfDatabaseName": "",
+  "ignoreVersionCheck": false,
+  "lastReadUpdates": 22,
+  "deleteMetadataOfDeletedFiles": false,
+  "syncIgnoreRegEx": "",
+  "syncOnlyRegEx": "",
+  "customChunkSize": 0,
+  "readChunksOnline": true,
+  "watchInternalFileChanges": true,
+  "automaticallyDeleteMetadataOfDeletedFiles": 0,
+  "disableMarkdownAutoMerge": false,
+  "writeDocumentsIfConflicted": false,
+  "useDynamicIterationCount": false,
+  "syncAfterMerge": false,
+  "configPassphraseStore": "",
+  "encryptedPassphrase": "",
+  "encryptedCouchDBConnection": "",
+  "permitEmptyPassphrase": false,
+  "useIndexedDBAdapter": true,
+  "useTimeouts": false,
+  "writeLogToTheFile": false,
+  "doNotPaceReplication": false,
+  "hashCacheMaxCount": 300,
+  "hashCacheMaxAmount": 50,
+  "concurrencyOfReadChunksOnline": 100,
+  "minimumIntervalOfReadChunksOnline": 333,
+  "hashAlg": "xxhash64",
+  "suspendParseReplicationResult": false,
+  "doNotSuspendOnFetching": false,
+  "useIgnoreFiles": false,
+  "ignoreFiles": ".gitignore",
+  "syncOnEditorSave": false,
+  "pluginSyncExtendedSetting": {
+    "CONFIG/app.json": {
+      "key": "CONFIG/app.json",
+      "mode": 0,
+      "files": [
+        "app.json"
+      ]
+    },
+    "CONFIG/appearance.json": {
+      "key": "CONFIG/appearance.json",
+      "mode": 0,
+      "files": [
+        "appearance.json"
+      ]
+    },
+    "CONFIG/community-plugins.json": {
+      "key": "CONFIG/community-plugins.json",
+      "mode": 0,
+      "files": [
+        "community-plugins.json"
+      ]
+    },
+    "CONFIG/core-plugins-migration.json": {
+      "key": "CONFIG/core-plugins-migration.json",
+      "mode": 0,
+      "files": [
+        "core-plugins-migration.json"
+      ]
+    },
+    "CONFIG/core-plugins.json": {
+      "key": "CONFIG/core-plugins.json",
+      "mode": 0,
+      "files": [
+        "core-plugins.json"
+      ]
+    },
+    "CONFIG/hotkeys.json": {
+      "key": "CONFIG/hotkeys.json",
+      "mode": 0,
+      "files": [
+        "hotkeys.json"
+      ]
+    },
+    "CONFIG/workspace-mobile.json": {
+      "key": "CONFIG/workspace-mobile.json",
+      "mode": 0,
+      "files": [
+        "workspace-mobile.json"
+      ]
+    },
+    "PLUGIN_DATA/obsidian-excalidraw-plugin": {
+      "key": "PLUGIN_DATA/obsidian-excalidraw-plugin",
+      "mode": 0,
+      "files": [
+        "plugins/obsidian-excalidraw-plugin/data.json"
+      ]
+    },
+    "PLUGIN_DATA/obsidian-livesync": {
+      "key": "PLUGIN_DATA/obsidian-livesync",
+      "mode": 0,
+      "files": [
+        "plugins/obsidian-livesync/data.json"
+      ]
+    },
+    "PLUGIN_MAIN/obsidian-excalidraw-plugin": {
+      "key": "PLUGIN_MAIN/obsidian-excalidraw-plugin",
+      "mode": 0,
+      "files": [
+        "plugins/obsidian-excalidraw-plugin/main.js",
+        "plugins/obsidian-excalidraw-plugin/manifest.json",
+        "plugins/obsidian-excalidraw-plugin/styles.css"
+      ]
+    },
+    "PLUGIN_MAIN/obsidian-livesync": {
+      "key": "PLUGIN_MAIN/obsidian-livesync",
+      "mode": 0,
+      "files": [
+        "plugins/obsidian-livesync/main.js",
+        "plugins/obsidian-livesync/manifest.json",
+        "plugins/obsidian-livesync/styles.css"
+      ]
+    },
+    "PLUGIN_MAIN/bmo-chatbot": {
+      "key": "PLUGIN_MAIN/bmo-chatbot",
+      "mode": 0,
+      "files": [
+        "plugins/bmo-chatbot/main.js",
+        "plugins/bmo-chatbot/manifest.json",
+        "plugins/bmo-chatbot/styles.css"
+      ]
+    },
+    "PLUGIN_DATA/obsidian-full-calendar": {
+      "key": "PLUGIN_DATA/obsidian-full-calendar",
+      "mode": 0,
+      "files": [
+        "plugins/obsidian-full-calendar/data.json"
+      ]
+    },
+    "PLUGIN_MAIN/obsidian-full-calendar": {
+      "key": "PLUGIN_MAIN/obsidian-full-calendar",
+      "mode": 0,
+      "files": [
+        "plugins/obsidian-full-calendar/main.js",
+        "plugins/obsidian-full-calendar/manifest.json",
+        "plugins/obsidian-full-calendar/styles.css"
+      ]
+    },
+    "PLUGIN_DATA/obsidian-git": {
+      "key": "PLUGIN_DATA/obsidian-git",
+      "mode": 0,
+      "files": [
+        "plugins/obsidian-git/data.json"
+      ]
+    },
+    "PLUGIN_MAIN/obsidian-git": {
+      "key": "PLUGIN_MAIN/obsidian-git",
+      "mode": 0,
+      "files": [
+        "plugins/obsidian-git/main.js",
+        "plugins/obsidian-git/manifest.json",
+        "plugins/obsidian-git/styles.css"
+      ]
+    },
+    "PLUGIN_DATA/terminal": {
+      "key": "PLUGIN_DATA/terminal",
+      "mode": 0,
+      "files": [
+        "plugins/terminal/data.json"
+      ]
+    },
+    "PLUGIN_MAIN/terminal": {
+      "key": "PLUGIN_MAIN/terminal",
+      "mode": 0,
+      "files": [
+        "plugins/terminal/main.js",
+        "plugins/terminal/manifest.json",
+        "plugins/terminal/styles.css"
+      ]
+    },
+    "PLUGIN_MAIN/speech2text-helper": {
+      "key": "PLUGIN_MAIN/speech2text-helper",
+      "mode": 0,
+      "files": [
+        "plugins/speech2text-helper/main.js",
+        "plugins/speech2text-helper/manifest.json"
+      ]
+    },
+    "CONFIG/graph.json": {
+      "key": "CONFIG/graph.json",
+      "mode": 0,
+      "files": [
+        "graph.json"
+      ]
+    },
+    "PLUGIN_MAIN/obsidian-checklist-plugin": {
+      "key": "PLUGIN_MAIN/obsidian-checklist-plugin",
+      "mode": 0,
+      "files": [
+        "plugins/obsidian-checklist-plugin/main.js",
+        "plugins/obsidian-checklist-plugin/manifest.json",
+        "plugins/obsidian-checklist-plugin/styles.css"
+      ]
+    },
+    "PLUGIN_MAIN/obsidian-kanban": {
+      "key": "PLUGIN_MAIN/obsidian-kanban",
+      "mode": 0,
+      "files": [
+        "plugins/obsidian-kanban/main.js",
+        "plugins/obsidian-kanban/manifest.json",
+        "plugins/obsidian-kanban/styles.css"
+      ]
+    },
+    "PLUGIN_DATA/vscode-editor": {
+      "key": "PLUGIN_DATA/vscode-editor",
+      "mode": 0,
+      "files": [
+        "plugins/vscode-editor/data.json"
+      ]
+    },
+    "PLUGIN_MAIN/vscode-editor": {
+      "key": "PLUGIN_MAIN/vscode-editor",
+      "mode": 0,
+      "files": [
+        "plugins/vscode-editor/main.js",
+        "plugins/vscode-editor/manifest.json",
+        "plugins/vscode-editor/styles.css"
+      ]
+    },
+    "PLUGIN_DATA/obsidian-checklist-plugin": {
+      "key": "PLUGIN_DATA/obsidian-checklist-plugin",
+      "mode": 0,
+      "files": [
+        "plugins/obsidian-checklist-plugin/data.json"
+      ]
+    },
+    "PLUGIN_MAIN/obsidian-tasks-plugin": {
+      "key": "PLUGIN_MAIN/obsidian-tasks-plugin",
+      "mode": 0,
+      "files": [
+        "plugins/obsidian-tasks-plugin/main.js",
+        "plugins/obsidian-tasks-plugin/manifest.json",
+        "plugins/obsidian-tasks-plugin/styles.css"
+      ]
+    },
+    "PLUGIN_DATA/obsidian-tasks-plugin": {
+      "key": "PLUGIN_DATA/obsidian-tasks-plugin",
+      "mode": 0,
+      "files": [
+        "plugins/obsidian-tasks-plugin/data.json"
+      ]
+    },
+    "PLUGIN_MAIN/gpt3-notes": {
+      "key": "PLUGIN_MAIN/gpt3-notes",
+      "mode": 0,
+      "files": [
+        "plugins/gpt3-notes/main.js",
+        "plugins/gpt3-notes/manifest.json",
+        "plugins/gpt3-notes/styles.css"
+      ]
+    }
+  },
+  "syncMaxSizeInMB": 50,
+  "settingSyncFile": "",
+  "writeCredentialsForSettingSync": true,
+  "notifyAllSettingSyncFile": true,
+  "useV1": false
+}
