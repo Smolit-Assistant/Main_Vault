@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e31e7a78bb82876e","x":-866,"y":-616,"width":400,"height":400,"type":"file","file":"Models/Models.md"},
+		{"id":"ff6905f1d0aeda49","x":-240,"y":-1120,"width":400,"height":400,"type":"file","file":"3D Print.md"},
+		{"id":"b56d94a834b5b6c7","x":-240,"y":-616,"width":400,"height":400,"type":"file","file":"Software/Software.md"},
+		{"id":"cba8f5becf06d58b","x":400,"y":-616,"width":400,"height":400,"type":"file","file":"Printer/Printer.md"}
+	],
+	"edges":[
+		{"id":"12acf3514484ad62","fromNode":"e31e7a78bb82876e","fromSide":"top","toNode":"ff6905f1d0aeda49","toSide":"bottom"},
+		{"id":"5aae02c7f9c489d7","fromNode":"b56d94a834b5b6c7","fromSide":"top","toNode":"ff6905f1d0aeda49","toSide":"bottom"},
+		{"id":"acdea59cba15b0a5","fromNode":"cba8f5becf06d58b","fromSide":"top","toNode":"ff6905f1d0aeda49","toSide":"bottom"}
+	]
+}

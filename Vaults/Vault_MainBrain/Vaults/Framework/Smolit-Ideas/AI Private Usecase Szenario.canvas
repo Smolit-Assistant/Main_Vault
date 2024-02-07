@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"71b2ecd09265c4ab","type":"group","x":-240,"y":-320,"width":880,"height":2160,"label":"ARTIFICIAL INTELLIGENCE"},
+		{"id":"072117f1d8f58d06","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit-Ideas/Wo für KI.md","x":-300,"y":-210,"width":400,"height":400},
+		{"id":"8e61a5050c7aa6a1","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit Assistant/Smolit-Backend-Server/Smolit Backend Server.md","x":-300,"y":294,"width":400,"height":400},
+		{"id":"bb9e345768571ae9","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit Assistant/Smolit-Backend-Server/Smolit-Agents.md","x":-300,"y":800,"width":400,"height":400},
+		{"id":"087ce9e77517529f","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit-Ideas/Workflow.md","x":-300,"y":1320,"width":400,"height":400},
+		{"id":"b5f7c8e08007403d","x":380,"y":-400,"width":260,"height":60,"color":"1","type":"text","text":"Privat Utilization Szenario"}
+	],
+	"edges":[]
+}

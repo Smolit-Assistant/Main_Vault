@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"fdd7e77492b7a3d3","x":-65,"y":-125,"width":400,"height":400,"type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit Assistant/Smolit-Backend-Server/Smolit Backend Server.md"},
+		{"id":"070e95570e2ade95","x":-65,"y":440,"width":400,"height":400,"type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit Assistant/Smolit-Backend-Server/Smolit-Agents.md"}
+	],
+	"edges":[]
+}

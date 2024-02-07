@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"febb21e5081750de","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Fabi MeditationsCentrum/Meine Rolle.md","x":-7,"y":-76,"width":367,"height":1516},
+		{"id":"aae081907e403763","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Fabi MeditationsCentrum/Kunst Therapie.md","x":480,"y":-76,"width":400,"height":396},
+		{"id":"3a051a5a5eb559c6","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Fabi MeditationsCentrum/Wildnis Pädagogik.md","x":480,"y":482,"width":400,"height":400},
+		{"id":"523b5dc4d7e341eb","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Fabi MeditationsCentrum/Handwerker.md","x":480,"y":1040,"width":400,"height":400},
+		{"id":"813cb633c16e0d24","x":-7,"y":-640,"width":1367,"height":400,"type":"file","file":"Vaults/Vault_MainBrain/Vaults/Fabi MeditationsCentrum/Business Ideen.md"}
+	],
+	"edges":[]
+}

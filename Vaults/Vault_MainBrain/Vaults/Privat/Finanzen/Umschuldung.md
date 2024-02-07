@@ -1,0 +1,5 @@
+# Schulden![[Schulden]]
+
+# Kredit![[Kredit]]
+
+

@@ -1,0 +1,1 @@
+OpenCraftSystems (OCS) ist die Firma die das Framework entwickelt und enterprise solutions anbietet.

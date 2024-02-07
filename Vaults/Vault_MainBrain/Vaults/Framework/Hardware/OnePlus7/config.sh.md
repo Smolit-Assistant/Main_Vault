@@ -1,0 +1,1 @@
+# Oneplus7 config file for automated installation with Raspi400 PXE

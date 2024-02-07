@@ -1,0 +1,7 @@
+- [x] Steuern ✅ 2024-02-02
+- [ ] Krankenkasse
+- [ ] Mama
+- [ ] Randi
+- [x] Mary ✅ 2024-02-02
+- [ ] Anna Bauwagen
+- [x] Dfgfhgffhgfdgbt ✅ 2024-02-02

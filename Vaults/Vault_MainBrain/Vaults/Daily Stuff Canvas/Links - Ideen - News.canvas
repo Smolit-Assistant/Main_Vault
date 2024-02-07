@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e49f56ca0e803661","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Privat/To Do.md","x":14,"y":66,"width":400,"height":400},
+		{"id":"0643893ae6003477","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Weiterbildung/Weiterbildung.md","x":14,"y":560,"width":400,"height":400},
+		{"id":"0765383714b085fd","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit-Ideas/AI Private Usecase Szenario.canvas","x":14,"y":1120,"width":400,"height":400},
+		{"id":"a034fc6424551b57","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit-Ideas/Workflow.md","x":14,"y":1600,"width":400,"height":400},
+		{"id":"ec7fd853d012804c","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit Assistant/Smolit-Backend-Server/Smolit-Agents.md","x":520,"y":1600,"width":400,"height":400},
+		{"id":"6458fe38512ddba9","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit-Ideas/Wo für KI.md","x":-480,"y":1600,"width":400,"height":400}
+	],
+	"edges":[]
+}

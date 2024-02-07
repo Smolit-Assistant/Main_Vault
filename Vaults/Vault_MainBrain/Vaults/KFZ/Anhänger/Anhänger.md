@@ -1,0 +1,5 @@
+- [ ] Werkstatt
+- [ ] Sauna
+- [ ] Bad
+- [ ] Wohnzimmer
+- [ ] Garage

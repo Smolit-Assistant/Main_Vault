@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"81a77881c348fc38","type":"group","x":1020,"y":47,"width":980,"height":3873,"color":"6","label":"Software"},
+		{"id":"6ae0dcdd774257d9","type":"group","x":0,"y":67,"width":980,"height":3853,"color":"#0000ff","label":"Hardware"},
+		{"id":"a87765fcebdcc847","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Hardware/Hardware Usecase.md","x":73,"y":67,"width":400,"height":400},
+		{"id":"0ee81b6d1488b6b5","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Hardware/Getac/Getac.md","x":73,"y":540,"width":400,"height":400},
+		{"id":"272fd7d8909e52ef","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Hardware/Getac/config.sh.md","x":560,"y":540,"width":400,"height":400},
+		{"id":"f3aa7d3b71bef348","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Software/Software.md","x":1040,"y":67,"width":400,"height":400},
+		{"id":"c8d44c8dbd0c923d","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Software/Git Server/Git Server.md","x":1040,"y":540,"width":400,"height":400},
+		{"id":"d098b9a5a1c8692f","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Software/Git Server/config.sh.md","x":1520,"y":540,"width":400,"height":400},
+		{"id":"87e166a0cc04a3af","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Hardware/Server2/Server2.md","x":73,"y":1520,"width":400,"height":400},
+		{"id":"98462dd9de4c8c2f","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Hardware/Server2/config.sh.md","x":560,"y":1520,"width":400,"height":400},
+		{"id":"1cdaf3051d6dc50f","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Hardware/Server1/Server1.md","x":73,"y":1040,"width":400,"height":400},
+		{"id":"a66e51c540c37220","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Hardware/Server1/config.sh.md","x":560,"y":1040,"width":400,"height":400},
+		{"id":"6bf9199efd08f4ab","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Hardware/Raspi400/Raspi 400.md","x":73,"y":2000,"width":400,"height":400},
+		{"id":"6eb47114363d27e3","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Hardware/Raspi400/config.sh.md","x":560,"y":2000,"width":400,"height":400},
+		{"id":"8271579016932629","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Hardware/OnePlus7/OnePlus 7.md","x":73,"y":2480,"width":400,"height":400},
+		{"id":"c0c1516cd314ff0d","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Hardware/OnePlus7/config.sh.md","x":560,"y":2480,"width":400,"height":400},
+		{"id":"8874397a241f85c1","x":1040,"y":1040,"width":400,"height":400,"type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Software/Kubernetes/Kubernetes.md"},
+		{"id":"30286a44ca307bfb","x":1520,"y":1040,"width":400,"height":400,"type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Software/Kubernetes/config.sh.md"},
+		{"id":"4d9a8e1a0dd607b3","x":1040,"y":1520,"width":400,"height":400,"type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Software/Nextcloud/Nextcloud.md"},
+		{"id":"1a3226c390c9e58f","x":1520,"y":1520,"width":400,"height":400,"type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Software/Nextcloud/config.sh.md"},
+		{"id":"f1b5b9f28f146f9c","x":1040,"y":2000,"width":400,"height":400,"type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Software/Open Stack/Open Stack.md"},
+		{"id":"94f9b58ac7244f0a","x":1520,"y":2000,"width":400,"height":400,"type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Software/Open Stack/config.sh.md"},
+		{"id":"4cd21c37d88dd0e7","x":1040,"y":2480,"width":400,"height":400,"type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Software/PXE Server/PXE Server.md"},
+		{"id":"d8c955b9a5a0ae21","x":1520,"y":2480,"width":400,"height":400,"type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Software/PXE Server/config.sh.md"}
+	],
+	"edges":[]
+}

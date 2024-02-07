@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"e7b80a6cd5c82a91","type":"group","x":1900,"y":133,"width":1440,"height":1887,"color":"#0000ff","label":"IDEAS"},
+		{"id":"77c3e0d54200b623","type":"group","x":-830,"y":133,"width":440,"height":1407,"color":"4","label":"How Tos"},
+		{"id":"12f4b3fe0bfe3337","type":"group","x":-120,"y":133,"width":440,"height":927,"color":"5","label":"OpenCrafSystems"},
+		{"id":"0419fe5729c2def9","type":"group","x":540,"y":133,"width":440,"height":927,"color":"2","label":"Smolit Backend Server"},
+		{"id":"bdbc3557fc257f52","type":"group","x":1199,"y":133,"width":440,"height":927,"color":"3","label":"Smolit GUI"},
+		{"id":"6627e5cd1d55baf1","type":"group","x":540,"y":-780,"width":440,"height":500,"color":"1","label":"BUSINESS"},
+		{"id":"d731ca148a674f43","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/OpenCraft OS/OpenCraftQubes OS.md","x":-95,"y":640,"width":400,"height":400},
+		{"id":"c01badd4ff3f4df7","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/OpenCraft OS/OpenCraft OS.md","x":-95,"y":153,"width":400,"height":400},
+		{"id":"5cb346fcd7c1b8cd","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit-Ideas/How Tos/Train a LLM with PyTorch.md","x":-810,"y":153,"width":400,"height":400},
+		{"id":"31b26bddc992ee47","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit-Ideas/How Tos/Train LLM Models for LocalAI.md","x":-810,"y":640,"width":400,"height":400},
+		{"id":"bc9bddbb0a0936b9","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit-Ideas/How Tos/Build LLM Applications with LangChain Tutorial.md","x":-810,"y":1120,"width":400,"height":400},
+		{"id":"acf8607c79c6c3c5","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit-Ideas/AI Private Usecase Szenario.canvas","x":-2240,"y":-320,"width":1150,"height":2560,"color":"1"},
+		{"id":"e8a508fe86ca0b9c","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit Assistant/Smolit-Backend-Server/Smolit Backend Server.md","x":560,"y":153,"width":400,"height":400},
+		{"id":"fd3ace18281c7585","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit Assistant/Smolit-Backend-Server/Smolit-Agents.md","x":560,"y":640,"width":400,"height":400},
+		{"id":"ce08f818da8f2486","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit Assistant/Smolit-Frontend-Solutions/Smolit Obsidian.md","x":1219,"y":153,"width":400,"height":400},
+		{"id":"2260ca6756ae0f07","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit Assistant/Smolit-Frontend-Solutions/Smolit Create.md","x":1219,"y":640,"width":400,"height":400},
+		{"id":"b94c47fd3e7a541d","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit-Ideas/Cloud Tools.md","x":1920,"y":153,"width":400,"height":400},
+		{"id":"56ae7894ee691dce","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit-Ideas/Email Server.md","x":2120,"y":440,"width":400,"height":400},
+		{"id":"d3f6fc44af76c99b","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit-Ideas/Webcrawler.md","x":2320,"y":720,"width":400,"height":400},
+		{"id":"4ddd8baca40e19fc","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit-Ideas/GESCHÄFTS MODEL.md","x":560,"y":-720,"width":400,"height":400,"color":"1"},
+		{"id":"ec7b65c6b2afbaee","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Software/Home Network.md","x":2520,"y":1040,"width":400,"height":400},
+		{"id":"a957e8aa40427e46","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Software/PXE Server/Promot pxe server.md","x":2720,"y":1320,"width":400,"height":400},
+		{"id":"9d707d1db5abc004","type":"file","file":"Smolit-Ideas/Linux Sys Conzept.md","x":2920,"y":1600,"width":400,"height":400}
+	],
+	"edges":[]
+}

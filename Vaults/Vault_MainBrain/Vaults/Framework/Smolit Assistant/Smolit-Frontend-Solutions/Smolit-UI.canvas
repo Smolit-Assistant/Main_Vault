@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"deda931152c0b287","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit Assistant/Smolit-Frontend-Solutions/Smolit Obsidian.md","x":-600,"y":-32,"width":400,"height":400},
+		{"id":"666eb07feaa9456b","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit Assistant/Smolit-Frontend-Solutions/Smolit Create.md","x":560,"y":-32,"width":400,"height":400},
+		{"id":"f01fe24d51177a78","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit Assistant/Smolit-Frontend-Solutions/Smolit GUI Front Page.md","x":-26,"y":-640,"width":400,"height":400},
+		{"id":"684f22906f7c89ea","type":"file","file":"Vaults/Vault_MainBrain/Vaults/Framework/Smolit Assistant/Smolit-Frontend-Solutions/Smolit GUI Komponenten.md","x":-26,"y":-32,"width":400,"height":400}
+	],
+	"edges":[]
+}
