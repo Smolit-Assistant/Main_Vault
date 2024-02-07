@@ -1,0 +1,11 @@
+{
+  "bmo-chatbot:open-bmo-chatbot": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ],
+  "editor:toggle-bold": []
+}

@@ -1,0 +1,30 @@
+#Senerade #Smolit #Voice-Control #AISpeechAssitant #LocalAI
+________________________________________________________________________
+Hub: [[🎯+Tool Hub]]
+Project Directory:
+________________________________________________________________________
+________________________________________________________________________
+# S M O L I T     FRAMEWORK
+
++ S_pech Recognition
++ M_odular Framework
++ O_pen Source
++ L_ocal Arteficial Intelligence
++ I_nteractive AI Assistants
++ T_oolchain Optimization
+________________________________________________________________________
+________________________________________________________________________
+# Senerade include in AISpeechAssitant 
+### smolit-Senerade-CLIas part of the AISpeechAssitant - Bot-CLI Tool
+### Command line interface Tool to manage Senerade - AISpeechAssitant 
+________________________________________________________________________
+##### Actual development version:
+
+###### Version: smolit-Senerade - AISpeechAssitant-cli v-0.0.0
+###### Author: SamSilnig
+________________________________________________________________________
+________________________________________________________________________
+
+### Project Description and Usecase in the Framework:
+
+*** Add description how to use ***

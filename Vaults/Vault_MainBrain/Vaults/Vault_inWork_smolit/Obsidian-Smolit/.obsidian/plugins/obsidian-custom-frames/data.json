@@ -1,0 +1,27 @@
+{
+  "frames": [
+    {
+      "url": "https://chat.openai.com",
+      "displayName": "ChatGPT",
+      "icon": "bot",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "",
+      "displayName": "Indisoft",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    }
+  ],
+  "padding": 5
+}

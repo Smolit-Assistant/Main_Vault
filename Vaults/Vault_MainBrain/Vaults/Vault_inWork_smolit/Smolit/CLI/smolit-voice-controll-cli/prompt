@@ -1,0 +1,217 @@
+#
+########################################################################
+#
+#
+# Voice-Controle 
+#
+#
+########################################################################
+# Voice-Controle Tool
+# Athor: SamSilnig
+########################################################################
+# Actual development version:
+# Version: voice-controle v-0.1.1
+########################################################################
+#
+#
+#
+# 	PROMPTS SORT BY VERSION
+#	
+
+##########################
+#
+#	***Prompt:v-0.1.2*** #
+#
+# Prompt:
+_
+
+
+
+#	***Prompt:v-0.1.1*** #
+#
+# Prompt:
+...
+old script
+...
+Sehr gut. weiter so. doch es gibt immer etwaas zu tun.
+überarbeite alle skripte und verbesser den code. 
+Achte darauf, das der code präzise unf fehlerfrei ist. 
+lege wert auf eine ansehnliche, moderne gui. überarbeite und verbessere die gui. 
+Ersetze alle Platzhalter in den Skripten mit ausführbarem, Code. schreibe den code ausführlich. 
+ergänze die gui um weitere einstellungs möglichkeiten und menüs, buttons und slider.
+Verbessere und erweitere den code. schreibe ausführlichen code.
+Ersetze alle Platzhalter in den Skripten mit ausführbarem, Code. schreibe den code ausführlich. 
+erstelle eine requiements.txt und eine install.sh
+anworte nur mit einer kurzen, präzisen erklärung, von dem, was du erneuert hast. poste nicht deine analysen.
+Vervollständige die skripte mit ausführbarem Code und stelle sie mir zum download bereit.
+Ersetze die Platzhalter der Skripte des Tools "voice-controle" mit ausführbarem Code. 
+Der Schwerpunkt liegt auf einer weiteren Verbesserung der GUI und der Funktionalität der anderen Skripte. 
+
+
+#	***Prompt:v-0.1.0*** #
+#
+# Prompt:
+Sehr gut. weiter so. doch es gibt immer etwaas zu tun.
+überarbeite alle skripte und verbesser den code. 
+Achte darauf, das der code präzise unf fehlerfrei ist. 
+lege wert auf eine ansehnliche, moderne gui. überarbeite und verbessere die gui. 
+erweitere die gui mit einem menu "Appereance"in dem der user das UI individualisieren kann. es sollen ein dropdown menu geben,in dem verschiedene themes wie darkmode, daymode, green,etc zur auswahl stehen. 
+zusätzlich soll über einen slider die helligkeit, contrast und intensität eingestellt werden können.
+ergänze das "Appereance" menu um weitere einstellungs möglichkeiten.
+Verbessere und erweitere den code. schreibe ausführlichen code.
+Ersetze alle Platzhalter in den Skripten mit ausführbarem, Code. schreibe den code ausführlich. 
+anworte nur mit einer kurzen, präzisen erklärung, von dem, was du erneuert hast. poste nicht deine analysen.
+Vervollständige die skripte mit ausführbarem Code und stelle sie mir zum download bereit.
+Ersetze die Platzhalter allen Skripten des Tools "voice-controle" mit ausführbarem Code. 
+Der Schwerpunkt liegt auf einer weiteren Verbesserung der GUI und der Funktionalität der anderen Skripte. 
+
+
+#	***Prompt:v-0.0.9*** #
+#
+# Prompt:
+Sehr gut. weiter so. doch es gibt immer etwaas zu tun.
+überarbeite alle skripte und verbesser den code. 
+Achte darauf, das der code präzise unf fehlerfrei ist. 
+lege wert auf eine ansehnliche, moderne gui. überarbeite und verbessere die gui.
+Verbessere und erweitere den code. schreibe ausführlichen code.
+Ersetze alle Platzhalter in den Skripten mit ausführbarem, Code. schreibe den code ausführlich. 
+anworte nur mit einer kurzen, präzisen erklärung, von dem, was du erneuert hast. poste nicht deine analysen.
+Vervollständige die skripte mit ausführbarem Code und stelle sie mir zum download bereit.
+Ersetze die Platzhalter allen Skripten des Tools "voice-controle" mit ausführbarem Code. 
+Der Schwerpunkt liegt auf einer weiteren Verbesserung der GUI und der Funktionalität der anderen Skripte. 
+
+
+
+#	***Prompt:v-0.0.8*** #
+#
+# Prompt:
+Sehr gut. weiter so. doch es gibt immer etwaas zu tun.
+überarbeite alle skripte und verbesser den code. 
+Achte darauf, das der code präzise unf fehlerfrei ist. 
+lege wert auf eine ansehnliche, moderne gui. überarbeite und verbessere die gui.
+Verbessere und erweitere den code. schreibe ausführlichen code.
+
+Ersetze alle Platzhalter in den Skripten mit ausführbarem, Code. schreibe den code ausführlich. 
+anworte nur mit einer kurzen, präzisen erklärung, von dem, was du erneuert hast. poste nicht deine analysen.
+Vervollständige die skripte mit ausführbarem Code und stelle sie mir zum download bereit.
+Ersetze die Platzhalter allen Skripten des Tools "voice-controle" mit ausführbarem Code.  
+
+
+#	***Prompt:v-0.0.7*** #
+#
+# Prompt:
+Sehr gut. doch es gibt immer etwaas zu tun.
+überarbeite die skripte und verbesser den code. lege wert auf eine ansehnliche, moderne gui.
+Verbessere und erweitere den code. schreibe ausführlichen code.
+
+Ersetze alle Platzhalter in den Skripten mit ausführbarem, Code. schreibe den code ausführlich. 
+
+Vervollständige die skripte mit ausführbarem Code und stelle sie mir zum download bereit.
+Ersetze die Platzhalter allen Skripten des Tools "voice-controle" mit ausführbarem Code. 
+
+
+#	***Prompt:v-0.0.6*** #
+#
+# Prompt:
+überarbeite die skripte und passe die gui entsprechend den anderen dateien an. berücksichtige die verwendung von kaldi.
+Verbessere und erweitere den code. schreibe ausführlichen code.
+
+Ersetze alle Platzhalter in den Skripten mit ausführbarem, Code. schreibe den code ausführlich. 
+
+Vervollständige die skripte mit ausführbarem Code und stelle sie mir zum download bereit.
+Ersetze die Platzhalter allen Skripten des Tools "voice-controle" mit ausführbarem Code. 
+The gui.py script establishes a graphical user interface (GUI) using PyQt5, featuring a main window (MainGUI) and two sidebars (LeftSidebar and RightSidebar).
+The setup includes basic configuration like window title, size, and the addition of sidebars, but there's no direct integration with speech recognition or command execution functionality so good.
+Hier sind deine Ziele:
+Enhance Speech Recognition:
+Ensure the script can continuously listen to audio input and output recognized text.
+Handle exceptions and errors gracefully.
+Ersetze alle Platzhalter in den Skripten mit ausführbarem, Code. schreibe den code ausführlich. 
+
+Modify GUI Script:
+Add a text display area or notification system to show recognized speech.
+Provide visual feedback for voice command recognition and processing.
+Add controls for starting/stopping the speech recognition process.
+Ersetze alle Platzhalter in den Skripten mit ausführbarem, Code. schreibe den code ausführlich. 
+
+Integrate Speech Recognition with GUI:
+Connect the speech recognition output to the GUI display.
+Enable the GUI to control the speech recognition (start/stop listening).
+Ersetze alle Platzhalter in den Skripten mit ausführbarem, Code. schreibe den code ausführlich. 
+
+Integrate Command Execution:
+Link recognized speech to the command execution script.
+Provide feedback in the GUI for successful or failed command execution.
+Ersetze alle Platzhalter in den Skripten mit ausführbarem, Code. schreibe den code ausführlich. 
+
+Testing and Debugging:
+Thoroughly test the integrated system.
+Debug and optimize performance.
+Documentation and Comments:
+Add detailed comments and documentation for each part of the code.
+To integrate with the speech recognition system, consider the following enhancements:
+Display Recognized Speech: Add a text display area or notification system in the GUI to show recognized speech.
+Voice Command Feedback: Provide visual feedback in the GUI when a voice command is recognized and processed.
+GUI Interaction with Speech Recognition: Enable the GUI to control or interact with the speech recognition system, such as starting or stopping listening.
+Ersetze alle Platzhalter in den Skripten mit ausführbarem, Code. schreibe den code ausführlich. 
+
+
+
+#	***Prompt:v-0.0.3*** #
+#
+# Prompt:
+überarbeite die skripte und passe die gui entsprechend den anderen dateien an. berücksichtige die verwendung von kaldi.
+Verbessere und erweitere den code. schreibe ausführlichen code.
+Ersetze alle Platzhalter in den Skripten mit ausführbarem, Code. schreibe den code ausführlich. 
+Vervollständige die skripte mit ausführbarem Code und stelle sie mir zum download bereit.
+Ersetze die Platzhalter allen Skripten des Tools "voice-controle" mit ausführbarem Code. 
+The gui.py script establishes a graphical user interface (GUI) using PyQt5, featuring a main window (MainGUI) and two sidebars (LeftSidebar and RightSidebar).
+The setup includes basic configuration like window title, size, and the addition of sidebars, but there's no direct integration with speech recognition or command execution functionality.
+Hier sind deine Ziele:
+Enhance Speech Recognition:
+Ensure the script can continuously listen to audio input and output recognized text.
+Handle exceptions and errors gracefully.
+Modify GUI Script:
+Add a text display area or notification system to show recognized speech.
+Provide visual feedback for voice command recognition and processing.
+Add controls for starting/stopping the speech recognition process.
+Integrate Speech Recognition with GUI:
+Connect the speech recognition output to the GUI display.
+Enable the GUI to control the speech recognition (start/stop listening).
+Integrate Command Execution:
+Link recognized speech to the command execution script.
+Provide feedback in the GUI for successful or failed command execution.
+Testing and Debugging:
+Thoroughly test the integrated system.
+Debug and optimize performance.
+Documentation and Comments:
+Add detailed comments and documentation for each part of the code.
+To integrate with the speech recognition system, consider the following enhancements:
+Display Recognized Speech: Add a text display area or notification system in the GUI to show recognized speech.
+Voice Command Feedback: Provide visual feedback in the GUI when a voice command is recognized and processed.
+GUI Interaction with Speech Recognition: Enable the GUI to control or interact with the speech recognition system, such as starting or stopping listening.
+
+
+##########################
+# ***Prompt:v-0.0.2*** #
+#
+# Prompt:
+überarbeite die skripte so das die voice-control mit kaldi läuft.
+Verbessere und erweitere den code. schreibe ausführlichen code.
+Ersetze alle Platzhalter in den Skripten mit ausführbarem, Code. schreibe den code ausführlich. 
+Vervollständige die skripte mit ausführbarem Code und stelle sie mir zum download bereit.
+Ersetze die Platzhalter allen Skripten des Tools "voice-controle" mit ausführbarem Code. 
+Hier sind deine Ziele:
+Spracherkennung anpassen: Die Datei speech_recognition.py muss überarbeitet werden, um Kaldi für die Spracherkennung zu verwenden anstatt PocketSphinx.
+Integration in die Hauptanwendung: Änderungen in main.py sind erforderlich, um sicherzustellen, dass die Kaldi-basierte Spracherkennung korrekt integriert und genutzt wird.
+Überprüfung der GUI und Befehlsausführung: In den Dateien gui.py und command_execution.py sollten keine größeren Änderungen erforderlich sein, es sei denn,
+es gibt spezifische Anforderungen bezüglich der Spracherkennung.
+Vervollständige die skripte mit ausführbarem Code und stelle sie mir zum download bereit.
+
+
+##########################
+# ***Prompt:v-0.0.1*** #
+#
+# Prompt:
+ich habe eine anwendung für voice-control mit einer gui erstellt.  sie soll aber mit kaldi laufen. 
+erstelle auserdem eine README.md

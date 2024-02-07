@@ -1,0 +1,87 @@
+2023-11-11 23:54:09,033 WARNING  plugins_config.yaml does not exist, creating base config.
+2023-11-11 23:54:09,044 INFO WARNING:  You do not have access to gpt-3.5-turbo. Setting fast_llm to gpt-3.5-turbo.
+2023-11-11 23:54:09,277 INFO WARNING:  You do not have access to gpt-4-0314. Setting smart_llm to gpt-3.5-turbo.
+2023-11-11 23:54:12,037 INFO NEWS: Welcome to Auto-GPT!
+2023-11-11 23:54:12,037 INFO NEWS: 
+2023-11-11 23:54:12,037 INFO NEWS: 
+2023-11-11 23:54:12,325 INFO Welcome to Auto-GPT!  run with '--help' for more information.
+2023-11-11 23:54:12,610 INFO Create an AI-Assistant: input '--manual' to enter manual mode.
+2023-11-11 23:54:12,818 INFO  Asking user via keyboard...
+2023-11-12 00:02:44,256 INFO Unable to automatically generate AI Config based on user desire. Falling back to manual mode.
+2023-11-12 00:02:44,614 INFO Create an AI-Assistant: Enter the name of your AI and its role below. Entering nothing will load defaults.
+2023-11-12 00:02:45,020 INFO Name your AI:  For example, 'Entrepreneur-GPT'
+2023-11-12 00:02:45,185 INFO  Asking user via keyboard...
+2023-11-12 00:03:01,873 INFO test here! I am at your service.
+2023-11-12 00:03:02,080 INFO Describe your AI's role:  For example, 'an AI designed to autonomously develop and run businesses with the sole goal of increasing your net worth.'
+2023-11-12 00:03:02,481 INFO  Asking user via keyboard...
+2023-11-12 00:03:09,694 INFO Enter up to 5 goals for your AI:  For example: 
+Increase net worth, Grow Twitter Account, Develop and manage multiple businesses autonomously'
+2023-11-12 00:03:10,168 INFO  Enter nothing to load defaults, enter nothing when finished.
+2023-11-12 00:03:10,168 INFO  Asking user via keyboard...
+2023-11-12 00:04:03,913 INFO  Asking user via keyboard...
+2023-11-12 00:04:11,397 INFO  Asking user via keyboard...
+2023-11-12 00:04:17,956 INFO  Asking user via keyboard...
+2023-11-12 00:04:24,532 INFO  Asking user via keyboard...
+2023-11-12 00:04:31,068 INFO Enter your budget for API calls:  For example: $1.50
+2023-11-12 00:04:31,278 INFO  Enter nothing to let the AI run without monetary limit
+2023-11-12 00:04:31,278 INFO  Asking user via keyboard...
+2023-11-12 00:04:51,463 INFO NOTE:All files/directories created by this agent can be found inside its workspace at: /app/auto_gpt_workspace
+2023-11-12 00:04:51,749 INFO test has been created with the following details:
+2023-11-12 00:04:51,984 INFO Name: test
+2023-11-12 00:04:52,102 INFO Role: **Prompt**
+You are an AI engineer working on the development of a functional framework called "Local_Assistant." This framework aims to create a digital assistant that can be controlled via voice commands and interacts with the user through a chatbot UI. The framework incorporates various open-source tools, Python scripts, and libraries, such as Auto-GPT4ALL, LocalAI, Prompt-Engineer, GPT-Engineer, and Chatbot-UI.
+
+Your task is to generate prompts for Auto-GPT4ALL, which is a key component of the Local_Assistant framework. Auto-GPT4ALL utilizes a powerful language model to generate human-like responses based on given prompts.
+
+**Prompt for Auto-GPT4ALL:**
+
+Given a user query or command, Auto-GPT4ALL should process the input and provide an appropriate response. It should understand the user's intent, execute any required actions or calculations, and generate a helpful and relevant reply. The AI is free to use any of the open-source tools, Python scripts, or libraries available within the Local_Assistant framework to enhance its capabilities.
+
+Remember that the digital assistant should be able to handle voice control, so make sure the generated prompt takes into account this mode of interaction.
+
+Start by designing a conversational process where the digital assistant asks clarifying questions to better understand the user's query or command. Then, based on the given information, produce a response that fulfills the user's request or provides the necessary information.
+
+The generated response can be in the form of text or voice output. Be sure to prioritize accuracy, clarity, and helpfulness in the digital assistant's replies.
+
+**Prompt for Auto-GPT: Generating a Functional Framework for a Digital Assistant**
+You need to generate a prompt for Auto-GPT to help create a functional framework for a digital assistant called "Local_Assistant." This framework should include several open-source tools, Python scripts, and libraries such as Auto-GPT4ALL, LocalAI, Prompt-Engineer, GPT-Engineer, and Chatbot-UI. The purpose of this framework is to enable users to communicate with the digital assistant through a chatbot UI, which should be adapted and equipped with the necessary control elements for the digital assistant. Additionally, the digital assistant should support voice control.
+
+Describe in plain English how the AI should generate a prompt for creating the functional framework for the digital assistant. Include what the AI will see and what it's allowed to output.
+
+2023-11-12 00:04:52,794 INFO Goals: 
+2023-11-12 00:04:52,820 INFO - Optimize the functionality and performance of Auto-GPT4ALL within the Local_Assistant framework.
+2023-11-12 00:04:53,131 INFO - Enhance user interaction and experience by incorporating voice control seamlessly.
+
+2023-11-12 00:04:53,380 INFO - Improve the accuracy and relevance of responses generated by Auto-GPT4ALL.
+
+2023-11-12 00:04:53,684 INFO - Ensure effective utilization of open-source tools, Python scripts, and libraries available in the framework.
+
+2023-11-12 00:04:54,055 INFO - Facilitate the creation of a functional framework for the digital assistant, focusing on adaptability and control elements for both chatbot UI and voice interactions.
+
+2023-11-12 20:05:55,497 WARNING  plugins_config.yaml does not exist, creating base config.
+2023-11-12 20:05:55,498 INFO Continuous Mode:  ENABLED
+2023-11-12 20:05:55,610 INFO WARNING:  Continuous mode is not recommended. It is potentially dangerous and may cause your AI to run forever or carry out actions you would not usually authorise. Use at your own risk.
+2023-11-12 20:05:56,077 INFO WARNING:  You do not have access to gpt-4-0314. Setting smart_llm to gpt-3.5-turbo.
+2023-11-12 20:05:56,409 WARNING LEGAL: 
+2023-11-12 20:05:56,410 WARNING LEGAL: DISCLAIMER AND INDEMNIFICATION AGREEMENT
+2023-11-12 20:05:56,410 WARNING LEGAL: PLEASE READ THIS DISCLAIMER AND INDEMNIFICATION AGREEMENT CAREFULLY BEFORE USING THE AUTOGPT SYSTEM. BY USING THE AUTOGPT SYSTEM, YOU AGREE TO BE BOUND BY THIS AGREEMENT.
+2023-11-12 20:05:56,410 WARNING LEGAL: 
+2023-11-12 20:05:56,410 WARNING LEGAL: Introduction
+2023-11-12 20:05:56,411 WARNING LEGAL: AutoGPT (the "System") is a project that connects a GPT-like artificial intelligence system to the internet and allows it to automate tasks. While the System is designed to be useful and efficient, there may be instances where the System could perform actions that may cause harm or have unintended consequences.
+2023-11-12 20:05:56,411 WARNING LEGAL: 
+2023-11-12 20:05:56,411 WARNING LEGAL: No Liability for Actions of the System
+2023-11-12 20:05:56,411 WARNING LEGAL: The developers, contributors, and maintainers of the AutoGPT project (collectively, the "Project Parties") make no warranties or representations, express or implied, about the System's performance, accuracy, reliability, or safety. By using the System, you understand and agree that the Project Parties shall not be liable for any actions taken by the System or any consequences resulting from such actions.
+2023-11-12 20:05:56,411 WARNING LEGAL: 
+2023-11-12 20:05:56,411 WARNING LEGAL: User Responsibility and Respondeat Superior Liability
+2023-11-12 20:05:56,412 WARNING LEGAL: As a user of the System, you are responsible for supervising and monitoring the actions of the System while it is operating on your
+2023-11-12 20:05:56,412 WARNING LEGAL: behalf. You acknowledge that using the System could expose you to potential liability including but not limited to respondeat superior and you agree to assume all risks and liabilities associated with such potential liability.
+2023-11-12 20:05:56,412 WARNING LEGAL: 
+2023-11-12 20:05:56,412 WARNING LEGAL: Indemnification
+2023-11-12 20:05:56,412 WARNING LEGAL: By using the System, you agree to indemnify, defend, and hold harmless the Project Parties from and against any and all claims, liabilities, damages, losses, or expenses (including reasonable attorneys' fees and costs) arising out of or in connection with your use of the System, including, without limitation, any actions taken by the System on your behalf, any failure to properly supervise or monitor the System, and any resulting harm or unintended consequences.
+2023-11-12 20:05:56,413 WARNING LEGAL:             
+2023-11-12 20:05:56,867 INFO NEWS: Welcome to Auto-GPT!
+2023-11-12 20:05:56,867 INFO NEWS: 
+2023-11-12 20:05:56,868 INFO NEWS: 
+2023-11-12 20:05:57,075 INFO Welcome to Auto-GPT!  run with '--help' for more information.
+2023-11-12 20:05:57,293 INFO Create an AI-Assistant: input '--manual' to enter manual mode.
+2023-11-12 20:05:57,546 INFO  Asking user via keyboard...

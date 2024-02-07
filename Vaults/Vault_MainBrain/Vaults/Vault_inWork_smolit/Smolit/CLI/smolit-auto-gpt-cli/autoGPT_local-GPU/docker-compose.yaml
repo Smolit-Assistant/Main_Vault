@@ -1,0 +1,51 @@
+version: "3.9"
+services:
+  api:
+    deploy:
+      resources:
+        reservations:                                               # IMAGES CHANGE TO NEEDED:
+          devices:                                                  # Cuda 11 - v1.40.0-cublas-cuda11
+            - driver: nvidia                                        # Cuda 12 - v1.40.0-cublas-cuda12
+              count: 1                                              # Cuda 11 with TTS - v1.40.0-cublas-cuda11-ffmpeg
+              capabilities: [gpu]                                   # Cuda 12 with TTS - v1.40.0-cublas-cuda12-ffmpeg
+    image: quay.io/go-skynet/local-ai:[CHANGEMETOIMAGENEEDED]    # <-> [CHANGE IMAGE HERE TO NEEDED] with one of the above listed
+    tty: true # enable colorized logs
+    restart: always # should this be on-failure ?
+    ports:
+      - 8080:8080
+    env_file:
+      - .env
+    volumes:
+      - ./models:/models
+      - ./images/:/tmp/generated/images/
+    command: ["/usr/bin/local-ai" ]
+  auto-gpt:
+    image: significantgravitas/auto-gpt
+    depends_on:
+      api:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    env_file:
+      - .env
+    environment:
+      MEMORY_BACKEND: ${MEMORY_BACKEND:-redis}
+      REDIS_HOST: ${REDIS_HOST:-redis}
+    profiles: ["exclude-from-up"]
+    volumes:
+      - ./auto_gpt_workspace:/app/autogpt/auto_gpt_workspace
+      - ./data:/app/data
+      ## allow auto-gpt to write logs to disk
+      - ./logs:/app/logs
+      ## uncomment following lines if you want to make use of these files
+      ## you must have them existing in the same folder as this docker-compose.yml
+      #- type: bind
+      #  source: ./azure.yaml
+      #  target: /app/azure.yaml
+      #- type: bind
+      #  source: ./ai_settings.yaml
+      #  target: /app/ai_settings.yaml
+  redis:
+    image: "redis/redis-stack-server:latest"
+
+

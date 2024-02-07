@@ -1,0 +1,155 @@
+#
+########################################################################
+# smolit #
+# SPECH
+# MODEL
+# LI?
+# T?
+########################################################################
+# smolit CLI Tool
+# Athor: SamSilnig
+########################################################################
+#
+#
+# 	PROMPTS SORT BY VERSION
+#	
+
+##########################
+#	***Prompt:v-0.0.9*** #
+#
+# Prompt:
+
+bisheriges smolit-kaldi.py script:
+...
+sehr gut. die quelle der befehle "python smolit-kaldi.py --loop --stream" und "python smolit-kaldi.py --loop --file" sollen hinten angehangen werden: "python smolit-kaldi.py --loop --stream https://www.beispiel-url.com" und "python smolit-kaldi.py --loop --file /path/to/file". 
+erg�nze das bisherige smolit-kaldi.py script so, dass es eine spezifische Quelle f�r die --stream und --file Optionen akzeptiert. 
+stelle mir eine vollst�ndige, angepasste version der smolit-kaldi.py und der loop.py zum download zur verf�gung.
+
+
+##########################
+#	***Prompt:v-0.0.8*** #
+#
+# Prompt:
+
+sehr gut. weiter so. �berarbeite und verbesser das smolit-kaldi.py script.Passe das smolit-kaldi.py script an die neuen scripte an.  sch�pfe das volle potenzial aus kaldi aus um aus smolit-kaldi ein unverbesserliches cli tool designed for creating, training, testing, refining, and 
+deploying personalized language models using Kaldi wird.
+Verbessere und erweitere den code. schreibe ausf�hrlichen code.
+Vervollst�ndige die skripte mit ausf�hrbarem Code und stelle sie mir zum download bereit.
+smolit-kaldi.py:
+import argparse
+import os
+...
+rest of script - pastet here for prompt
+...
+
+
+##########################
+#	***Prompt:v-0.0.7*** #
+#
+# Prompt:
+
+sehr gut. weiter so. �berarbeite und verbesser die skripte. sch�pfe das volle potenzial aus kaldi aus um aus smolit-kaldi ein unverbesserliches cli tool designed for creating, training, testing, refining, and 
+deploying personalized language models using Kaldi wird.
+Verbessere und erweitere den code. schreibe ausf�hrlichen code.
+Vervollst�ndige die skripte mit ausf�hrbarem Code und stelle sie mir zum download bereit.
+
+
+##########################
+#	***Prompt:v-0.0.6*** #
+#
+# Prompt:
+
+sehr gut. weiter so. �berarbeite die skripte. sch�pfe das volle potenzial aus kaldi aus um aus smolit-kaldi ein unverbesserliches cli tool designed for creating, training, testing, refining, and 
+deploying personalized language models using Kaldi wird.
+Verbessere und erweitere den code. schreibe ausf�hrlichen code.
+Vervollst�ndige die skripte mit ausf�hrbarem Code und stelle sie mir zum download bereit.
+
+
+##########################
+# 	***Prompt:v-0.0.5*** #
+#
+# Prompt:
+
+sehr gut. weiter so. �berarbeite die skripte. sch�pfe das volle potenzial aus kaldi aus um aus smolit-kaldi ein unverbesserliches cli tool designed for creating, training, testing, refining, and 
+deploying personalized language models using Kaldi wird.
+Verbessere und erweitere den code. schreibe ausf�hrlichen code.
+Ersetze alle Platzhalter in den Skripten des CLI-Tool "smolit-kaldi" mit ausf�hrbarem, Code. schreibe den code ausf�hrlich. Kommentiere den Code ausf�hrlich.
+Vervollst�ndige die skripte mit ausf�hrbarem Code und stelle sie mir zum download bereit.
+
+
+##########################
+# 	***Prompt:v-0.0.4*** #
+#
+# Prompt:
+
+sehr gut. weiter so. es gibt immer etwas zu tun. arbeite jetzt an den weiteren skripten.
+Verbessere und erweitere den code. schreibe ausf�hrlichen code.
+Ersetze alle Platzhalter in den Skripten des CLI-Tool "smolit-kaldi" mit ausf�hrbarem, Code. schreibe den code ausf�hrlich. 
+Vervollst�ndige die skripte mit ausf�hrbarem Code und stelle sie mir zum download bereit.
+erstelle auserdem eine README.md
+
+
+##########################
+# 	***Prompt:v-0.0.4*** #
+#
+# Prompt:
+
+sehr gut. weiter so.
+Verbessere und erweitere den code. schreibe ausf�hrlichen code.
+Ersetze alle Platzhalter in den Skripten des CLI-Tool "smolit-kaldi" mit ausf�hrbarem, Code. schreibe den code ausf�hrlich.
+Vervollst�ndige die skripte mit ausf�hrbarem Code und stelle sie mir zum download bereit.
+
+
+##########################
+# ***Prompt:v-0.0.2*** #
+#
+# Prompt:
+
+Ersetze die Platzhalter in den Skripten des CLI-Tool "smolit-kaldi" mit ausf�hrbarem Code. 
+Hier sind deine Ziele:
+1. Training (training.py)
+F�r das Training k�nnen wir annehmen, dass es einen Datensatz gibt, der f�r das Training des Modells verwendet wird. Das Trainingsskript kann Kaldi-Tools aufrufen, um das akustische Modell zu trainieren. Da ich nicht genau wei�, welche Tools und Methoden Sie speziell verwenden, werde ich einen allgemeinen Ansatz verwenden.
+
+2. Testen und Verfeinern (test.py)
+Hier k�nnten wir ein Testset verwenden, um die Leistung des Modells zu evaluieren. Das Skript k�nnte auch Methoden zur Feinabstimmung des Modells beinhalten.
+
+3. Dauerhafte Verbesserung (loop.py)
+Dieses Skript k�nnte automatisch neue Daten sammeln oder importieren und das Modell regelm��ig mit diesen neuen Daten aktualisieren.
+
+4. Integration (imp.py)
+F�r die Integration k�nnten wir annehmen, dass das trainierte Modell in einer bestimmten Anwendungsinfrastruktur verwendet wird. Das Skript k�nnte Methoden zum Exportieren des Modells in ein Format enthalten, das von der Anwendung verwendet werden kann.
+
+Vervollst�ndige die skripte mit ausf�hrbarem Code und stelle sie mir zum download bereit.
+
+
+##########################
+# ***Prompt:v-0.0.1*** #
+#
+# Prompt:
+
+du sollst ein cli-tool zur Generierung eines personaliertem Sprachmodells mit Kaldi erstellen. das cli-tool hei�t:smolit-kaldi
+Das cli-tool soll in mehrere scripte unterteilt werden, um die verschiedenen Schritte des Modelltrainings abzudecken:
+Datensammlung und -verarbeitung:
+Sammeln von Sprachaufnahmen.
+Transkribieren der Aufnahmen.
+Vorverarbeiten der Daten (Normalisierung, m�glicherweise Segmentierung).
+Training:training
+Verwenden von Kaldi-Tools und Skripten zum Trainieren des akustischen Modells.
+M�glicherweise Einbeziehung von Transfer Learning, um ein vorab trainiertes Modell anzupassen.
+Testen und Verfeinern:test
+Testen des Modells mit unbekannten Daten.
+Analyse der Ergebnisse und Feinabstimmung des Modells.
+Dauerhafte Verbesserung:loop
+Einrichten eines Mechanismus, um kontinuierlich neue Daten zu sammeln und das Modell weiter zu trainieren.
+Integration:imp
+Implementierung einer Methode zur Integration des trainierten Modells in Ihre Anwendung.
+das cli-tool "smolit-kaldi" soll im hintergrund laufen. 
+die scripte des cli-tolls sollen ausf�hrlich loggen.
+die logs und error nachrichten sollen im debug=TRUE modus angezeigt werden.
+das "smolit-kaldi" soll mit den argumenten:
+--new-model 
+"smolit-kaldi --new-model" erstellt ein neues user profil und speichert es unter username/profile. der user soll seinen namen angeben, welches der name des neues projektes wird.
+--debug # default=FALSE
+"smolit-kaldi --debug" l�sst smolit-kaldi im vordergrund laufen und zeigt die logs an.
+ausgef�rt werden k�nnen.
+erstelle die skripte training, test, loop und imp f�r das cli-tool "smolit-kaldi" und stelle sie mir zum download bereit. falls weitere scripte f�r die funktion des cli-tools ben�tigt werden so generiere auch diese.

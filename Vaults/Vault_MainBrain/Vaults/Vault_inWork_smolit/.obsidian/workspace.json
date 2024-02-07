@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "5dc2320095805bc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d58f86ab2b0e62bf",
+        "type": "tabs",
+        "dimension": 88.36206896551724,
+        "children": [
+          {
+            "id": "b6128eb3af824fdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Agent_OpenStack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4ac815c690b36026",
+        "type": "tabs",
+        "dimension": 11.637931034482758,
+        "children": [
+          {
+            "id": "75bdd361d0c83925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Admin-Agents/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6892bac16b87833",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebe4e968cdd0e937",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aca4eb0c6196bc1f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b638994364e1fd1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e4f8a291b78696d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328.51049613952637
+  },
+  "right": {
+    "id": "6b1857abf68c7612",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab7923bb37e11dc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5860fe26b01b445a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Agent_OpenStack.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10e10552d304c16c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Agent_OpenStack.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "15206fe2a8d3c33b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "859ca274dc09a1e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Agent_OpenStack.md"
+              }
+            }
+          },
+          {
+            "id": "a14737ddddcbd88b",
+            "type": "leaf",
+            "state": {
+              "type": "chatbot-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "92c1f23235930afd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b18833eeef3ad93b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "a1f0ab956fc86db7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "954955a2925dc293",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "3d-graph:3D Graph": false,
+      "bmo-chatbot:Chatbot (Clear Conversation)": false,
+      "quick-plugin-switcher:Quick Plugin Switcher": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "map-of-content:Update Map of Content": false
+    }
+  },
+  "active": "b6128eb3af824fdc",
+  "lastOpenFiles": [
+    "AutoGPT_colab.ipynb",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Admin-Agents/README.md",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Agent_OpenStack.md",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Agents.md",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Admin-Agents/Agent_Admin-User-profile-Manager.md",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Admin-Agents/Agent_Admin-System-Web-Crawler.md",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Admin-Agents/Agent_Admin-System-Database-Manager.md",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Admin-Agents/Agent_Admin-Security-Manager.md",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Admin-Agents/Agent_Admin-Network-Manager.md",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Admin-Agents/Agent_Admin-Main.md",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Smolit-Hub.md",
+    "Obsidian-Smolit/Smolit/Ideas.md",
+    "Obsidian-Smolit/Smolit/Link to API-KEYS.md",
+    "Obsidian-Smolit/Smolit/Smolit Dashboard.md",
+    "~Desktop Daily.canvas",
+    "~Desktop Weiterbildung.canvas",
+    "🎯 Hub.md",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +AISAB Hub/ASIA-Bot/AISA-Bot.md",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +AISAB Hub/ASIA-Bot/ASIA-Bot.md",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Agent_Storage.md",
+    "Obsidian-Smolit/Smolit/~Desktop Smolit.canvas",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Agent_OpenStack - Anmerkung.md",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Agent_Backend-Manager.md",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/Smolit Open-Stack.canvas",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Agent_DataSet.md",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack-Services.canvas",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Swift Add-Ons/Storlets.md",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Storage/Cinder.md",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Swift Add-Ons",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Scale/Workload Provisioning/Magnum.md",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/Agent_Knowledge-Database-Manager.md",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/OpenStack-Agents/Web Frontend & API Proxis.md",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents/OpenStack-Agents",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Integration enablers",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Add-Ons to Services",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Operations tooling",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Services",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/Lifecycle Managemant",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/Hardware Lifesycle/Untitled",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/OpenStack Components/API Proxies",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/Pictures/Open-Stack.png",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Server Hub/Server/Open-Stack/Pictures/openstack-map.png",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +Agent Hub/Agents.canvas",
+    "Obsidian-Smolit/🎯 +Hub Smolit/🎯 +AISAB Hub/ASIA-Bot/ASIA-Bot.canvas",
+    "Untitled 1.canvas"
+  ]
+}
